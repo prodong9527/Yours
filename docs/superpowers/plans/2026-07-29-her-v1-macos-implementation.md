@@ -1,5 +1,11 @@
 # “她”V1 macOS Implementation Plan
 
+> **状态：已废止，请勿执行。**
+>
+> 产品范围已经改为 macOS 与 Windows 跨平台、免安装便携桌面版；权威数据改为 Markdown、JSON 和 JSONL 文件，SQLite 只作为可重建索引，API 配置随便携目录迁移。新的实施计划将在
+> [跨平台便携桌面版设计](../specs/2026-07-29-her-v1-portable-desktop-design.md)
+> 通过书面审阅后编写。
+
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
 **Goal:** Build a personal, local-first macOS companion app that closes the V1 loop: conversation → durable memory → narrative understanding → reflection → restrained proactive recall → correction.
